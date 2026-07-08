@@ -10,6 +10,7 @@ __pycache__/
 *.db
 *.db-wal
 *.db-shm
+aura.db
 
 # Tooling caches
 .pytest_cache/
