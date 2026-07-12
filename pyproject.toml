@@ -1,7 +1,7 @@
 [project]
 name = "aura"
 version = "0.1.0"
-description = "Add your description here"
+description = "A personalized AI life coach built with FastAPI, focused on long-term memory, habit tracking, journaling, and personalized guidance."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
